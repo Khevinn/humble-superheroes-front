@@ -17,6 +17,8 @@ This is the frontend of the **Humble Superhero API**. It provides a user interfa
    ```sh
    npm install
    ```
+### ⚠️ Make sure to set the `REACT_APP_API_PORT` variable in the `.env` file If not set, the application will run on port `3001` by default.
+
 
 2. Start the development server:
     ```sh
